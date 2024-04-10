@@ -6,7 +6,7 @@
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="12ad48dd-274b-4feb-a5ac-b2f8279a6ebc" data-share-badge-host="https://www.credly.com"></div>
     Hi there
   </h1>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <script type="text/javascript"></script>
 </body>
 </html>
 
