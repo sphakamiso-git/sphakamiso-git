@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](aws-certified-cloud-practitioner.png)
+![alt text](aws-certified-cloud-practitioner..png)
 ![alt text](aws-certified-developer.png)
 ![alt text](aws-certified-solutions-architect.png)
 ![alt text](aws-certified-sysops-administrator.png)
