@@ -1,5 +1,9 @@
 ### Hi there 👋
+![alt text](aws-certified-cloud-practitioner.png)
 ![alt text](aws-certified-developer.png)
+![alt text](aws-certified-solutions-architect.png)
+![alt text](aws-certified-sysops-administrator.png)
+![alt text](isc2-candidate.png)
 
 <!--
 **sphakamiso-git/sphakamiso-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
