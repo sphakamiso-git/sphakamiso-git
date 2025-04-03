@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![alt text](aws-certified-cloud-practitioner..png)](https://www.credly.com/badges/c1ce1a32-0302-49d0-ae63-ba7ffa333bc2/public_url){:target="_blank" rel="noopener"}
+[![alt text](aws-certified-cloud-practitioner..png)](https://www.credly.com/badges/c1ce1a32-0302-49d0-ae63-ba7ffa333bc2/public_url)
 ![alt text](aws-certified-developer.png)
 ![alt text](aws-certified-solutions-architect.png)
 ![alt text](aws-certified-sysops-administrator.png)
