@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](Todo.png)
+
 <!--
 **sphakamiso-git/sphakamiso-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
