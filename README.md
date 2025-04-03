@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](aws-certified-developer-associate (1).png)
+![alt text](aws-certified-developer.png)
 
 <!--
 **sphakamiso-git/sphakamiso-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
