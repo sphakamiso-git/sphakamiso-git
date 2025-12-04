@@ -4,6 +4,7 @@
 [![alt text](aws-certified-solutions-architect.png)](https://www.credly.com/badges/7b4e863a-365b-4956-8971-3f8f1cca2b7a/public_url)
 [![alt text](aws-certified-sysops-administrator.png)](https://www.credly.com/badges/f308ef03-4dbc-451b-9507-617e16c6930e/public_url)
 [![alt text](isc2-candidate.png)](https://www.credly.com/badges/f90d6c45-ba69-4c7d-8607-ed8790f2cbbb/public_url)
+[![alt text](isc2-candidate.png)](https://www.credly.com/badges/affa3a55-687b-4017-9970-d0251e53576d/public_url)
 
 <!--
 **sphakamiso-git/sphakamiso-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
