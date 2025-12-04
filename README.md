@@ -3,7 +3,7 @@
 [![alt text](aws-certified-developer.png)](https://www.credly.com/badges/fc28e31d-3b6f-40f3-befb-9d55f46c0cf4/public_url)
 [![alt text](aws-certified-solutions-architect.png)](https://www.credly.com/badges/7b4e863a-365b-4956-8971-3f8f1cca2b7a/public_url)
 [![alt text](aws-certified-sysops-administrator.png)](https://www.credly.com/badges/f308ef03-4dbc-451b-9507-617e16c6930e/public_url)
-[![alt text](comptia-linux-ce-certification.png)](https://www.credly.com/badges/affa3a55-687b-4017-9970-d0251e53576d/public_url)
+[![alt text](comptia-linux-ce-certification(2).png)](https://www.credly.com/badges/affa3a55-687b-4017-9970-d0251e53576d/public_url)
 [![alt text](isc2-candidate.png)](https://www.credly.com/badges/f90d6c45-ba69-4c7d-8607-ed8790f2cbbb/public_url)
 
 
